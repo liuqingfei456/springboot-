@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-02-config-02" />
+        <module name="spring-boot-06-data-jdbc" />
+        <module name="spring-boot-03-logging" />
+        <module name="spring-boot-02-config-autoconfig" />
+        <module name="spring-boot-04-web-restfulcrud" />
+        <module name="spring-boot-07" />
+        <module name="atguigu-spring-boot-starter-autoconfigurer" />
+        <module name="atguigu-spring-boot-starter" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="atguigu-spring-boot-starter" target="1.5" />
+      <module name="atguigu-spring-boot-starter-autoconfigurer" target="1.8" />
+      <module name="spring-boot-02-config-02" target="1.8" />
+      <module name="spring-boot-02-config-autoconfig" target="1.8" />
+      <module name="spring-boot-03-logging" target="1.8" />
+      <module name="spring-boot-04-web-restfulcrud" target="1.8" />
+      <module name="spring-boot-06-data-jdbc" target="1.8" />
+      <module name="spring-boot-07" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
